@@ -27,6 +27,13 @@
       "_template": "ContentBlock"
     },
     {
+      "title": "Visión ",
+      "center": true,
+      "underline": true,
+      "_template": "TitleBlock",
+      "content": ""
+    },
+    {
       "content": "En Biodesarrollos agrícolas del Sureste creemos firmemente que con apoyo de investigación científica podemos ofrecer productos de mayor calidad y sin usar insecticidas químicos.\n\n> ###### _La alimentación es base para todo ser humano, es por eso que buscamos innovar nuestros procesos con ayuda de estudios cientificos. Día a día trabajamos en cosechar el futuro de México._",
       "_template": "ContentBlock"
     }
