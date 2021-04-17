@@ -10,24 +10,19 @@
       "content": ""
     },
     {
-      "content": "En Biodesarrollos agrícolas del Sureste creemos firmemente que con apoyo de investigación científica podemos ofrecer productos de mayor calidad y sin usar insecticidas químicos.",
+      "content": "En Biodesarrollos agrícolas del Sureste, creemos firmemente que con apoyo de investigación científica, podemos ofrecer productos de la mejor calidad apoyados en técnicas como la hidroponía, aeroponía y acuaponía.",
       "center": false,
       "_template": "ContentBlock"
     },
     {
       "title": "Misión y Visión",
       "center": true,
-      "underline": true,
+      "underline": false,
       "_template": "TitleBlock",
       "content": ""
     },
     {
-      "content": "",
-      "center": false,
-      "_template": "ContentBlock"
-    },
-    {
-      "content": "Empresa Agrícola  comprometida a producir de manera inteligente para evitar los grandes desperdicios alimentarios, contando con la mejor calidad e higiene para brindar seguridad de los consumidores  así como de nuestros agricultores, buscando una armonía con nuestro entorno ambiental erradicando el uso de insecticidas químicos.\n\n> ###### _La alimentación es base para todo ser humano, es por eso que buscamos innovar nuestros procesos con ayuda de estudios cientificos. Día a día trabajamos en cosechar el futuro de México._",
+      "content": "Empresa Agrícola  comprometida a producir de manera inteligente, para evitar los grandes desperdicios alimentarios, contando con la mejor calidad e higiene para brindar seguridad a los consumidores,  así como de nuestros agricultores, buscando una armonía con nuestro entorno ambiental erradicando el uso de insecticidas químicos.\n\nComprometidos en fomentar la producción inteligente, para ser la empresa agrícola líder en calidad e higiene, siempre cuidando el bienestar del planeta y de todos los consumidores y productores, siempre trabajando con lealtad y confianza.\n\n> ###### _La alimentación es base para todo ser humano, es por eso que buscamos innovar nuestros procesos con ayuda de estudios cientificos. Día a día trabajamos en cosechar el futuro de México._",
       "_template": "ContentBlock"
     }
   ],
