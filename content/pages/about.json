@@ -1,0 +1,18 @@
+{
+  "title": "Acerca de",
+  "path": "/about",
+  "blocks": [
+    {
+      "title": "",
+      "center": false,
+      "underline": true,
+      "_template": "TitleBlock",
+      "content": ""
+    },
+    {
+      "content": "Los socios de la sociedad de producción rural de responsabilidad limitada denominada biodesarrollos agrícolas del Sureste, tal y como sus objetos sociales numerales dos y tres especifican “producción, mejoramiento agrícola, de hortalizas y todo tipo de plántulas, innovación in vitro e invernadero, cosecha de traspatio”, así como el desarrollo e investigación científica en el entorno agropecuario y agrícola, mejoramiento e innovación en procesos productivos relacionados al campo, derivado de la situación mundial de desabasto de alimento y granos, han decidido destinar recursos de inversión para desarrollar un programa de agricultura por contrato para la producción de hortalizas de alto valor comercial.\n\nEs por ello que como parte fundamental de su actividad y operación se han realizado estudios integrales de análisis de suelos y condiciones micro y macroeconómicas para ubicar las zonas con mayor factibilidad y potencial agrícola para el desarrollo de este proyecto estratégico.\n\n> ###### _La alimentación es base para todo ser humano, es por eso que buscamos innovar nuestros procesos con ayuda de estudios cientificos. Día a día trabajamos en cosechar el futuro de México._",
+      "_template": "ContentBlock"
+    }
+  ],
+  "displayTitle": true
+}

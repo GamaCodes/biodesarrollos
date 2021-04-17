@@ -1,0 +1,31 @@
+{
+  "path": "/",
+  "blocks": [
+    {
+      "_template": "ContentBlock",
+      "content": "## Umor bis\n\nAdit suo ait in olorinis portitor **undam tangentia** quibus Hectora invideatis cardine pressit fovet, _fuit_; nec barba sudantibus? Forte aliquis, ultaque et is inritamen velamina Clarium: [non](http://retiaque-in.io/). Inter pendentia eligit, sua fugam cumque. Domat ex nomina rogantum genitas delapsam: iam quae capillos facienda lanificae tectus solidorum. Seraque Medea, et exstinctique et conata **Cumarum** species ultra re cognita!\n\n## Del huerto a tu puerta\n\nManejamos mas de 18 productos, de los cuales los mas solicitados son:\n\n1. Zanahorias\n2. Papa\n3. Lechuga\n4. Cebolla\n5. Coliflor"
+    }
+  ],
+  "hero": {
+    "headline": "BIODESARROLLOS.",
+    "textline": "Agrícolas del Sureste SPR de RL.",
+    "ctas": [
+      {
+        "label": "Conocenos",
+        "link": "/about",
+        "primary": true,
+        "arrow": true
+      },
+      {
+        "label": "Contactanos",
+        "link": "/contact",
+        "arrow": false,
+        "primary": false
+      }
+    ],
+    "image": "../images/home.jpg",
+    "large": true
+  },
+  "displayTitle": false,
+  "title": "Home"
+}
