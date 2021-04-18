@@ -17,7 +17,7 @@ export const Hero = ({ hero }) => {
         <HeroContent large={hero.large}>
           <Wrapper>
             {hero.headline && <Headline>{hero.headline}</Headline>}
-            {hero.textline && <Textline>{hero.textline}</Textline>}
+            {hero.textline && <Textline style={{color: "white"}}>{hero.textline}</Textline>}
             {hero.ctas && (
               <Actions>
                 {Object.keys(hero.ctas).map(key => {
