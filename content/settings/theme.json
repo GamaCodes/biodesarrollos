@@ -2,7 +2,7 @@
   "color": {
     "black": "#131110",
     "white": "#FCFCFC",
-    "primary": "#007043",
+    "primary": "#27A93C",
     "secondary": "#B8A45D"
   },
   "easing": "cubic-bezier(0.215, 0.610, 0.355, 1.000)",
@@ -22,7 +22,7 @@
     "underline": true
   },
   "hero": {
-    "image": "../images/tractor.jpg",
+    "image": "../images/tomate.jpg",
     "large": false,
     "overlay": true,
     "overlap": "8rem",

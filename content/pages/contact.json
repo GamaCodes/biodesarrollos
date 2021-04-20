@@ -3,6 +3,11 @@
   "path": "/contact",
   "blocks": [
     {
+      "content": "<div class='contact-img'><img src='https://i.ibb.co/LQ9qzGB/Group-2.png'></div><br>",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
       "_template": "TitleBlock",
       "title": "",
       "underline": true,

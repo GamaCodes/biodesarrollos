@@ -3,8 +3,11 @@ import styled, { css } from "styled-components"
 import { transparentize } from "polished"
 import { Wrapper, Overlay, LinkButton } from "../components/style"
 import BackgroundImage from "gatsby-background-image"
+import Herosvg from "./herosvg"
 
 export const Hero = ({ hero }) => {
+
+  console.log(hero.image.childImageSharp.fluid)
   return (
     <HeroWrapper>
       <HeroBackground>
@@ -16,11 +19,11 @@ export const Hero = ({ hero }) => {
       {(hero.headline || hero.textline || hero.ctas) && (
         <HeroContent large={hero.large}>
           <Wrapper>
-            {hero.headline && <Headline>{hero.headline}</Headline>}
-            {hero.textline && <Textline style={{color: "white"}}>{hero.textline}</Textline>}
+          <Herosvg/>
             {hero.ctas && (
               <Actions>
                 {Object.keys(hero.ctas).map(key => {
+                  console.log(hero.ctas[key].primary)
                   return (
                     <LinkButton
                       primary={hero.ctas[key].primary}
@@ -113,6 +116,7 @@ export const Textline = styled.p`
 `
 
 export const Actions = styled.div`
+  text-align: center;
   padding-bottom: 0.5rem;
   > * {
     margin-right: 1rem;

@@ -2,8 +2,36 @@
   "path": "/",
   "blocks": [
     {
+      "title": "Agricultura moderna",
+      "center": true,
+      "underline": true,
+      "_template": "TitleBlock",
+      "content": ""
+    },
+    {
       "_template": "ContentBlock",
+      "content": "## ¿Qué es la hidroponía?\n\nLa hidroponía es un sistema de producción en el cual las raíces de las plantas no se encuentran establecidas en el suelo, sino en un sustrato o en la misma solución nutritiva utilizada. En la solución nutritiva, como su nombre dice, se encuentran disueltos los elementos necesarios para el crecimiento de la planta.\n\nEste sistema tiene 3 técnicas:\n\n1. Raíz flotante\n2. NFT\n3. En sustrato\n\n## ¿Qué es la aeroponía?\n\nLa aeroponía es el proceso de cultivar plantas en un entorno de niebla sin hacer uso del suelo o sumergiendo la raíz total o parcialmente en una solución nutritiva, es una técnica avanzada y de tecnología un poco más compleja que la hidroponía.\n\n## ¿Qué es la acuaponía?\n\nLa acuaponía consiste en la integración de dos métodos de cultivo:\n\n1. La acuacultura\n2. La hidroponía\n\nEste método es especialmente útil en zonas donde el suelo es pobre y/o el agua escasa, ya que con este método se cuida el agua y no se impacta el suelo."
+    },
+    {
+      "_template": "ContentBlockb",
       "content": "## ¿Qué es la hidroponía?\n\nLa hidroponía es un sistema de producción en el cual las raíces de las plantas no se encuentran establecidas en el suelo, sino en un sustrato o en la misma solución nutritiva utilizada. En la solución nutritiva, como su nombre dice, se encuentran disueltos los elementos necesarios para el crecimiento de la planta.\n\nEste sistema tiene 3 técnicas:\n\n1. Raíz flotante\n2. NFT\n3. En sustrato\n\n## ¿Qué es la aeroponía?\n\nLa aeroponía es el proceso de cultivar plantas en un entorno de niebla sin hacer uso del suelo o sumergiendo la raíz total o parcialmente en una solución nutritiva, es una técnica avanzada y de tecnología un poco más compleja que la hidroponía.\n\n## ¿Qué es la acuaponía?\n\nLa acuaponía consiste en la integración de dos métodos de cultivo: \n\n1. La acuacultura\n2. La hidroponía\n\nEste método es especialmente útil en zonas donde el suelo es pobre y/o el agua escasa, ya que con este método se cuida el agua y no se impacta el suelo."
+    },
+    {
+      "content": "<br><iframe width='560' height='315' src='https://www.youtube.com/embed/fEgTn-BJ_zc' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br>",
+      "center": true,
+      "_template": "ContentBlock"
+    },
+    {
+      "title": "Beneficios",
+      "center": true,
+      "underline": true,
+      "_template": "TitleBlock",
+      "content": ""
+    },
+    {
+      "content": "<div class='content-body'><div class='container'><div class='box'><div class='imgBx'><img src='https://images.pexels.com/photos/6369229/pexels-photo-6369229.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400'></div> <div class='content'><h2>Suelos</h2><p>Protegemos ecosistemas que suelen ser dañados con cultivos tradicionales.</p><a href='#'></a></div> </div><div class='box'><div class='imgBx'><img src='https://images.pexels.com/photos/3951391/pexels-photo-3951391.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400'></div> <div class='content'><h2>Plagas</h2><p>Ambientes controlados para evitar la propagación de posibles plagas.</p><a href='#'></a></div> </div><div class='box'><div class='imgBx'><img src='https://images.pexels.com/photos/95215/pexels-photo-95215.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400'></div> <div class='content'><h2>Agua</h2><p>Se reduce el consumo de agua en un 70%, ya que no hay desperdicio.</p><a href='#'></a></div> </div><div class='box'><div class='imgBx'><img src='https://images.pexels.com/photos/1453713/pexels-photo-1453713.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=400'></div> <div class='content'><h2>Calidad</h2><p>Se requiere de un control estricto por lo que garantizamos cultivos de alta calidad y 100% organico </p><a href='#'></a></div> </div></div></div>",
+      "center": true,
+      "_template": "ContentBlock"
     }
   ],
   "hero": {
@@ -23,7 +51,7 @@
         "primary": false
       }
     ],
-    "image": "../images/home.jpg",
+    "image": "../images/apple.jpg",
     "large": true
   },
   "displayTitle": false,

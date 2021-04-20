@@ -10,7 +10,7 @@
       "content": ""
     },
     {
-      "content": "En Biodesarrollos agrícolas del Sureste, creemos firmemente que, con apoyo de investigación científica, podemos ofrecer productos de la mejor calidad apoyados en técnicas como la hidroponía, aeroponía y acuaponía.",
+      "content": "<div class='content-img'><img src='https://images.pexels.com/photos/697243/pexels-photo-697243.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=560'></div> En Biodesarrollos agrícolas del Sureste, creemos firmemente que, con apoyo de investigación científica, podemos ofrecer productos de la mejor calidad apoyados en técnicas como la hidroponía, aeroponía y acuaponía.<br><div class='content-img'><img src='https://image.freepik.com/foto-gratis/dos-investigaciones-hombre-mujer-examinan-vegetacion-tableta-invernadero-blanco_8353-7179.jpg'></div><br>",
       "center": false,
       "_template": "ContentBlock"
     },
@@ -22,7 +22,19 @@
       "content": ""
     },
     {
-      "content": "Empresa Agrícola  comprometida a producir de manera inteligente, para evitar los grandes desperdicios alimentarios, contando con la mejor calidad e higiene para brindar seguridad a los consumidores,  así como de nuestros agricultores, buscando una armonía con nuestro entorno ambiental erradicando el uso de insecticidas químicos.\n\nComprometidos en fomentar la producción inteligente, para ser la empresa agrícola líder en calidad e higiene, siempre cuidando el bienestar del planeta y de todos los consumidores y productores, siempre trabajando con lealtad y confianza.\n\n> ###### _La alimentación es base para todo ser humano, es por eso que buscamos innovar nuestros procesos con ayuda de estudios científicos. Día a día trabajamos en cosechar el futuro de México._",
+      "content": "Empresa Agrícola  comprometida a producir de manera inteligente, para evitar los grandes desperdicios alimentarios, contando con la mejor calidad e higiene para brindar seguridad a los consumidores,  así como de nuestros agricultores, buscando una armonía con nuestro entorno ambiental erradicando el uso de insecticidas químicos.\n\n> ###### _La alimentación es base para todo ser humano, es por eso que buscamos innovar nuestros procesos con ayuda de estudios científicos. Día a día trabajamos en cosechar el futuro de México._ \n\nComprometidos en fomentar la producción inteligente, para ser la empresa agrícola líder en calidad e higiene, siempre cuidando el bienestar del planeta y de todos los consumidores y productores, siempre trabajando con lealtad y confianza. <br><div class='content-img'><img src='https://images.pexels.com/photos/288477/pexels-photo-288477.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500'></div><br>",
+      "_template": "ContentBlock"
+    },
+    {
+      "title": "Valores",
+      "center": true,
+      "underline": false,
+      "_template": "TitleBlock",
+      "content": ""
+    },
+    {
+      "content": "* **Servicio:** Dar una atención de calidad, cubriendo los requerimientos de nuestros asociados, clientes internos y externos mediante un servicio integral.\n* **Trabajo:** Superar las expectativas en el cumplimiento de nuestra labor, perseverancia en el logro de objetivos, deberes, responsabilidades y compromisos.\n* **Honestidad:** Actuar con rectitud en las actividades diarias, basados en la ética e integridad alineados a nuestra misión y visión.\n* **Compañerismo:** Solidaridad, colaboración y trabajo en equipo para enfrentar los retos diarios.<br><br><div class='content-img'><img src='https://images.pexels.com/photos/3184431/pexels-photo-3184431.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'></div><br>\n* **Mejora continua:** Diagnosticar, analizar e implementar mejoras, asegurando su impacto y seguimiento permanente. \n* **Generosidad y altruismo:** Promover el bienestar, desarrollo, crecimiento y salud de terceros con actos de apoyo desinteresados.\n* **Responsabilidad:** Cumplir con compromisos y obligaciones, tanto hacia fuera como hacia adentro de la organización.\n* **Protección del medio ambiente:** Asumimos  el compromiso de promover la protección del medio ambiente, a través de la promoción e implementación de procesos limpios que no pongan en riesgo la salud humana, la vida silvestre y las fuentes de agua.<br><br><div class='content-img'><img src='https://images.pexels.com/photos/1296265/pexels-photo-1296265.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'></div><br>\n* **Sostenibilidad organizativa:** Promover  mecanismos eficientes y eficaces de comunicación, a manera de mantener un alto nivel de información y participación  en todas sus miembros. El objetivo es mejorar la identificación, compromiso y lealtad de los socios y socias ante la organización.\n* **Sostenibilidad financiera:** La auto sostenibilidad financiera se obtendrá a través de la generación de ingresos y prestación de servicios relacionados con la comercialización de los cultivos y productos agrícolas  de sus socios y socias.\n* **Equidad de género:** Es fundamental la incorporación y valoración de la participación activa de la mujer, a través de políticas y procedimientos que  fomenten un desarrollo con equidad de género. <br><br><div class='content-img'><img src='https://images.pexels.com/photos/6077797/pexels-photo-6077797.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'></div><br>",
+      "center": false,
       "_template": "ContentBlock"
     }
   ],

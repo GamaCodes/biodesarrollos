@@ -13,7 +13,6 @@ export default function Image() {
         `
     )
 
-    console.log(data, "data")
     return (
         <div>
             <GatsbyImage image={data.imageSharp.gatsbyImageData}/>
